@@ -7,7 +7,11 @@
 		{
 			"Name": "AppsFlyerSample",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Android",
+				"IOS"
+			]
 		}
 	]
 }
