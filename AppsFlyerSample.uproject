@@ -8,10 +8,7 @@
 			"Name": "AppsFlyerSample",
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
-			"WhitelistPlatforms": [
-				"Android",
-				"IOS"
-			]
+			"WhitelistPlatforms": [ "Win64","Win32","Mac","IOS","Android" ]
 		}
 	]
 }
